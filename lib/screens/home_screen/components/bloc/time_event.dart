@@ -10,7 +10,4 @@ class NextTime extends TimeEvent {
       : super(currentTime, timeFallInSleep, customTime);
 }
 
-// class NextTimeCustom extends TimeEvent {
-//   NextTimeCustom(DateTime currentTime, int timeFallInSleep, DateTime customTime)
-//       : super(currentTime, timeFallInSleep, customTime);
-// }
+

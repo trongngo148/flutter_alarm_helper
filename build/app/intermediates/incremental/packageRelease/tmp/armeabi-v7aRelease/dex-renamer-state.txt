@@ -1,0 +1,4 @@
+#Thu Sep 17 23:11:11 ICT 2020
+base.0=D\:\\WORK\\DEV\\Flutter\\Projects\\Flutter-Analog-Clock-Light-Dark-Theme\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

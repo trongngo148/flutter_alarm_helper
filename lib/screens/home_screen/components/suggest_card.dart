@@ -40,7 +40,7 @@ class SuggestCard extends StatelessWidget {
                 SizedBox(
                   height: 5,
                 ),
-                Text(suggestHourSleep != 0 ? "Bạn nên thức dậy vào lúc:" : ""),
+                Text(suggestHourSleep != 0 ? "Bạn nên thức dậy vào lúc: " : ""),
                 SizedBox(
                   height: getProportionateScreenHeight(3),
                 ),

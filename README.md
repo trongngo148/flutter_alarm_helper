@@ -9,4 +9,3 @@ We design a nice clean analog clock UI by using flutter. Our clock supports both
 ### Analog Clock App Final UI
 
 ![Preview](/intro.gif)
-![Preview](/ui.png)

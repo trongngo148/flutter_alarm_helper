@@ -114,12 +114,6 @@ class _StartScreenState extends State<StartScreen> {
                                           print(data[0].timeFallInSleep);
 
                                           data[0].timeFallInSleep != 0
-                                              // ? Navigator.push(
-                                              //     context,
-                                              //     PageTransition(
-                                              //         child: HomeScreen(),
-                                              //         type: PageTransitionType
-                                              //             .fade))
                                               ? buildNavigator()
                                               : buildShowDialog(context);
                                         },

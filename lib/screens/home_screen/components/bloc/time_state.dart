@@ -94,6 +94,7 @@ class InitialStateTime extends TimeState {
             period7h30Custom);
 
   InitialStateTime getInit() {
+    print("CREATE INITIAL");
     return InitialStateTime(
       currentTime: null,
       timeCustom: null,
